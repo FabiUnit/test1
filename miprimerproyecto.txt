@@ -1,1 +1,2 @@
-Esta es mi primer linea en git
+Esta es mi degunda linea
+es mi primer linea en git
